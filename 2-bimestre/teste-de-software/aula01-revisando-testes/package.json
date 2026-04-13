@@ -1,0 +1,24 @@
+{
+  "name": "exercicios-3ds",
+  "version": "1.0.0",
+  "description": "<b>🏭 FORMULÁRIO DE SONDAGEM DE CONCEDENTES: [CLIQUE AQUI](https://forms.gle/ZjFrmogfsyjRy4ieA)</b>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heloisa-angelo/exercicios-3ds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/heloisa-angelo/exercicios-3ds/issues"
+  },
+  "homepage": "https://github.com/heloisa-angelo/exercicios-3ds#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
